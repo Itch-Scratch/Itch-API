@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/Itch-Scratch/Itch-API/issues"
   },
-  "homepage": "https://github.com/Itch-Scratch/Itch-API#readme"
+  "homepage": "https://github.com/Itch-Scratch/Itch-API#readme",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  }
 }
